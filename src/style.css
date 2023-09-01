@@ -134,17 +134,23 @@ h1 {
     margin: 0;
 }
 
-h2 {
+#group-4 h2 {
     font-family: 'Meutas';
     color: #FFF;
     text-align: center;
     font-size: 24px;
     font-style: normal;
     font-weight: 300;
+    position: relative;
+
 }
 
-#group-4 {
-    position: relative;
+#group-4 img {
+    height: 40px;
+    width: 200px;
+    margin-left: -100px;
+    margin-top: -40px;
+    position: absolute;
 }
 
 main p {
