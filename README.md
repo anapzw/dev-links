@@ -1,5 +1,4 @@
-<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16F73B&width=435&lines=DEV+LINKS)](https://git.io/typing-svg)
-<br> </h1>
+<h1 align="center"> Dev Links </h1>
 <p align="center"> Projeto DevLinks - Desafio 1 da Trilha de Front-end do curso Incode 2023.2 - Módulo 2. </p>
 
 <p align="center">
