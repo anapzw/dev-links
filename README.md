@@ -1,4 +1,4 @@
-<h1 align="center"> Dev Links </h1>
+<h1 align="center"> DevLinks </h1>
 <p align="center"> Projeto DevLinks - Desafio 1 da Trilha de Front-end do curso Incode 2023.2 - Módulo 2. </p>
 
 <p align="center">
